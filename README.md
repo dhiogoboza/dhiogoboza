@@ -2,7 +2,7 @@
 
 - :telescope: I’m currently working with Embedded Systems for Television :tv:
 - :seedling: I’m currently learning React Native
-- 💬 I am also building [tudodrone.com](https://tudodrone.com) and [rastreioshare.com](https://rastreioshare.com) in my free time.
+- 💬 I am also building [tudodrone.com](https://tudodrone.com) and [rastreioshare.com](https://rastreioshare.com) in my free time
 - :robot: Software Engineer
 - 📫 Contact me at dhiogoboza@gmail.com.
 
