@@ -2,7 +2,7 @@
 
 I am a fullstack software engineer from Brazil
 
-- :telescope: My current works: Embedded Systems and Web Development with Java
+- :telescope: I'm current working with Embedded Systems and Web Development with Java
 - 💬 I am also building [snacraft](http://snacraft.appspot.com/), [tudodrone.com](https://tudodrone.com) and [rastreioshare.com](https://rastreioshare.com) in my free time
 - 📫 Contact me at dhiogoboza@gmail.com.
 
