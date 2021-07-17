@@ -2,7 +2,7 @@
 
 I am a fullstack software engineer from Brazil
 
-- :telescope: I'm current working with Embedded Systems and Web Development with Java
+- :telescope: I'm current working with Embedded Systems and Web Development with Java and Angular
 - 📫 Contact me at dhiogoboza@gmail.com.
 
 ### My personal projects
