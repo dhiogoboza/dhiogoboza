@@ -4,6 +4,7 @@ I am a fullstack software engineer from Brazil.
 
 - :telescope: I'm current working with Embedded Systems and Web Development
 - 📫 Contact me at dhiogoboza@gmail.com.
+- :page_facing_up: My resume [https://dhiogoboza.github.io/](https://dhiogoboza.github.io/)
 
 ### My personal projects
 - [Snacraft](http://snacraft.appspot.com/)
