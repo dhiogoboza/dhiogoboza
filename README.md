@@ -9,9 +9,9 @@ I am a fullstack software engineer from Brazil.
 ### My personal projects
 - [Snacraft](http://snacraft.appspot.com/)
 - [TudoDrone](https://tudodrone.com)
-- [RastreioShare](https://rastreioshare.com)
 - [Vehicles Black](https://play.google.com/store/apps/details?id=com.db.vehiclesblack)
 - [Streamings Comparator](https://compararstreamings.com.br/)
+- [Pedidos ZApp](https://pedidoszapp.com.br/)
 
 ### Connect with me
 
